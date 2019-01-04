@@ -24,13 +24,13 @@ I have learned a lot from working in education, including how to work efficientl
 
 ## Projects
 
-| Project | Time | Testing Framework | Language | Description |
-|---------|------|-------------------|----------|-------------|
+| Project | Testing/Lint Framework | Technologies | Description |
+|---------|-------------------|----------|-------------|
 | [Battle Game](https://github.com/MariusGG/Battle-Game) | RSpec, Rubocop, Capybara | Ruby | Fun multiplayer web battle game, built using Ruby with a Sinatra MVC framework. OOP principles embedded in the design. |
-| [Chitter-challenge](https://github.com/MariusGG/chitter-challenge) | RSpec, Rubocop, Capybara | Ruby | postgresql | twitter clone web-app, building this app was an introduction to database management systems. |
-| [MakersBnB](https://github.com/MariusGG/MakersBnB) | Group project || RSpec, Rubocop, Capybara, Simplecov | Ruby | Postgresql | AirBnB clone built as part of a team. Followed the Agile software development model and TDD. |
-| [Acebook](https://github.com/MariusGG/acebook-breakfast-club) | Group project | RSpec, Capybara | Ruby on Rails | Postgresql | Heroku | Facebook clone built as part of a team. using Agile development principles and following the TDD approach to develop all features. |
-| [Schej](https://github.com/MariusGG/SchejBackend / https://github.com/MariusGG/SchejFrontend) | Group project | Ruby on Rails | Rspec, Rubocop | React JS | Cypress.io, Enzyme | Shift scheduling and swapping web app. An API backend built in rails with a React frontend. Take a look at the the deployed app <a href="http://schej-frontend.surge.sh/">Here</a>|
+| [Chitter-challenge](https://github.com/MariusGG/chitter-challenge) | RSpec, Rubocop, Capybara | Ruby, postgresql | twitter clone web-app, building this app was an introduction to database management systems. |
+| [MakersBnB](https://github.com/MariusGG/MakersBnB) | RSpec, Rubocop, Capybara, Simplecov | Ruby, Postgresql, Heroku, Travis CI   | AirBnB clone built as part of a team. Followed the Agile software development model and TDD. |
+| [Acebook](https://github.com/MariusGG/acebook-breakfast-club) | RSpec, Capybara, Simplecov | Ruby on Rails, Postgresql, Heroku, Travis CI | Facebook clone built as part of a team. using Agile development principles and following the TDD approach to develop all features. Take a look at the deployed app <a href="https://acebook-breakfast-club.herokuapp.com/users/sign_in">Here</a>.|
+| [SchejBackend](https://github.com/MariusGG/SchejBackend) [SchejFrontend](https://github.com/MariusGG/SchejFrontend) |  Rspec, Rubocop, Simplecov, Cypress.io, Enzyme | Ruby on Rails, React JS, Heroku, surge.sh, Travis CI | Shift scheduling and swapping web app. An API backend built in Ruby on Rails with a React frontend. Take a look at the the deployed app <a href="http://schej-frontend.surge.sh/">Here</a>|
 
 ---
 
