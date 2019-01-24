@@ -36,20 +36,21 @@ I have learned a lot from working in education, including how to work efficientl
 ## Skills
 
 #### Communication
-I enjoy working in teams, and good communication within a team is essential for productivity and my happiness in the workplace.
-Since being at Makers I have used Slack to regularly communicate with some of my colleagues and also my mentor. Slack has allowed me to communicate clearly what I am working on each day and has been an important part of my workflow.
-
-I developed strong communication skills during my time working in primary education. It was vital to demonstrate clear, concise communication with both children and adults. I had to be creative and flexible in my approach to communicating with children with special needs, and was often praised for my ability to do so. We used our weekly team meetings to discuss our children’s needs and troubleshoot any problems we were experiencing in helping them meet their targets.
-
+I enjoy working in teams, and good communication within a team is essential for
+productivity and happiness in the workplace. At Makers, I have used Slack to regularly communicate with colleagues, coaches and my mentor, and found this to be an important part of my workflow. I developed strong communication skills working in special education, where clear, concise communication was vital.
 
 #### Quick learner
 
-I relish the opportunity to learn and try new things, not just in programming but in all aspects of life. I find that I learn best by doing. I have learned a lot from creating new projects, always approaching these with a sense of optimism and a can-do attitude. This was particularly evident during a  Javascript course at Birkbeck University, when I decided to build my own form and add some advanced functionality to it. I'm a strong believer in having a growth mindset, as i’ve found new skills can be developed through dedication and hard work.
-
-I keep myself organised by maintaining my daily task list on Trello. I feel this helps me to stay on top of my work, leading to better outcomes overall.
+I relish opportunities to learn , not just in programming but
+in all aspects of life. I find that I learn best by doing. I have learned a lot from creating new projects, always approaching these with an optimistic can-do attitude. I'm a strong believer in having a growth mindset;
+new skills can be developed through dedication and hard work.
+I maintain a daily task list on Trello, which helps me to stay organised and leads to better outcomes.
 
 #### Able to motivate others
-I have a proven record of motivating others, as an athletics coach working with some of the most talented athletes in the Highgate Harriers Athletics Club. I have coached young athletes to Regional, National and European Championship level, where they won medals and titles across a range of disciplines. Alongside supporting others to succeed, I have motivated myself to beginning my coding studies in my spare time, working around the long hours of being an athletics coach and a classroom assistant.
+
+I have a proven record of motivating others, as coach for some of the most talented athletes in the Highgate Harriers Athletics Club. 
+
+I lead by example: I dedicated myself to studying programming in my spare time, around a full-time job in education and evening and weekend coaching commitments.
 
 ---
 
@@ -57,7 +58,7 @@ I have a proven record of motivating others, as an athletics coach working with 
 
 #### Makers Academy (July 2018 to Oct 2018)
 
-Makers Academy is a 16-week intensive software bootcamp. I've enjoyed having my perceptions changed about how code should be written and can't wait to put my skills into practice.
+Makers Academy is a 16-week intensive software bootcamp. I've enjoyed having my perceptions challenged about how code should be written and can't wait to put my skills into practice.
 - Processes: OOP, TDD, BDD, Agile, Extreme Programming, Pair Programming
 - Testing: RSpec, Capybara, Jasmine, Cypress.io, Enzyme
 - Languages: Ruby, JavaScript, SQL, HTML, CSS
@@ -84,15 +85,15 @@ Makers Academy is a 16-week intensive software bootcamp. I've enjoyed having my 
 **Highgate Harriers Athletics Club** (Sep-15 ongoing)    
 *Lead Athletics Coach*
 
-Responsible for planning and overseeing training for junior athletes, including several promising young people who compete at regional, national and international level.
+Responsible for planning and overseeing training for junior athletes, including several promising young people who have won medals and titles across a range of disciplines at Regional, National and European Championship levels
 
 
-**Manor School** (Oct '16 - Jul '18)
+**Brent Specialist Academy Trust** (Oct '16 - Jul '18)
 *HLTA (Higher Level Teaching Assistant)*
 
 Worked as a member of a diverse team of teaching staff, planning and delivering creative lessons tailored to children’s wide-ranging learning difficulties. Directed colleagues in the absence of the Class Teacher.
 
 ## Hobbies and interests
 - Film, theatre, concerts, etc.
-- Keeping fit
+- Jogging
 - Playing board games
