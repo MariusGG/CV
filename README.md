@@ -36,19 +36,20 @@ I have learned a lot from working in education, including how to work efficientl
 ## Skills
 
 #### Communication
-I enjoy working in teams, and good communication within a team is essential for
-productivity and happiness in the workplace. At Makers, I have used Slack to regularly communicate with colleagues, coaches and my mentor, and found this to be an important part of my workflow. I developed strong communication skills working in special education, where clear, concise communication was vital.
+I enjoy working in teams, and good communication within a team is essential for productivity and happiness in the workplace. Teams need to communicate well and frequently - while pairing, in stand-ups and retros, and online.
+
+If I spot a breakdown in communication, I’ll try to fix it. I developed strong communication skills working in special education, where clear, concise communication was vital.
 
 #### Quick learner
 
-I relish opportunities to learn , not just in programming but
-in all aspects of life. I find that I learn best by doing. I have learned a lot from creating new projects, always approaching these with an optimistic can-do attitude. I'm a strong believer in having a growth mindset;
-new skills can be developed through dedication and hard work.
-I maintain a daily task list on Trello, which helps me to stay organised and leads to better outcomes.
+I relish opportunities to learn, not just in programming but in all aspects of life.
+I find that I learn best by doing. I have learned a lot from creating new projects, always approaching these with an optimistic can-do attitude.
+
+I'm a strong believer in having a growth mindset; new skills can be developed through dedication and hard work. Example of this was when I learned foundation Makaton, to provide a means of communication to pupils who cannot communicate efficiently by speaking.  
 
 #### Able to motivate others
 
-I have a proven record of motivating others, as coach for some of the most talented athletes in the Highgate Harriers Athletics Club. 
+I have a proven record of motivating others, as a coach for some of the most talented athletes in the Highgate Harriers Athletics Club, including one who holds national and world records in long jump and high jump.
 
 I lead by example: I dedicated myself to studying programming in my spare time, around a full-time job in education and evening and weekend coaching commitments.
 
@@ -58,11 +59,14 @@ I lead by example: I dedicated myself to studying programming in my spare time, 
 
 #### Makers Academy (July 2018 to Oct 2018)
 
-Makers Academy is a 16-week intensive software bootcamp. I've enjoyed having my perceptions challenged about how code should be written and can't wait to put my skills into practice.
+Makers Academy is a 16-week intensive software bootcamp. I've enjoyed having my perceptions challenged about how code should be written and can't wait to put my skills into practice. Training as a developer at Makers has improved my systematic problem-solving abilities. I learned software development fundamentals using Ruby, and delivered full stack web applications using Ruby on Rails.             I have experience using version control throughout my projects at Makers.
+
+- Languages: Ruby, JavaScript, Python, SQL, HTML, CSS
+- Frameworks: Sinatra, Express, Rails, React, Node
+- Testing: RSpec, Capybara, Jasmine, Cypress.io, Enzyme, Jest, Detox
 - Processes: OOP, TDD, BDD, Agile, Extreme Programming, Pair Programming
-- Testing: RSpec, Capybara, Jasmine, Cypress.io, Enzyme
-- Languages: Ruby, JavaScript, SQL, HTML, CSS
-- Frameworks: Sinatra, Express, Rails, React
+- Version Control: Git, GitHub
+
 
 #### Birkbeck University - JAVASCRIPT (May-18 to Jul-18)
 - 10 week evening course
@@ -85,7 +89,7 @@ Makers Academy is a 16-week intensive software bootcamp. I've enjoyed having my 
 **Highgate Harriers Athletics Club** (Sep-15 ongoing)    
 *Lead Athletics Coach*
 
-Responsible for planning and overseeing training for junior athletes, including several promising young people who have won medals and titles across a range of disciplines at Regional, National and European Championship levels
+Responsible for planning and overseeing training for junior athletes, including several promising young people who have won medals and titles across a range of disciplines at Regional, National and European Championship levels.
 
 
 **Brent Specialist Academy Trust** (Oct '16 - Jul '18)
